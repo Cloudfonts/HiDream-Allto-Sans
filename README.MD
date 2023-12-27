@@ -18,6 +18,6 @@ Font Producer: [HiDream Cloudfonts Project](https://fonts.hidream.it)
 
 Contains the same glyphs as [Noto Sans SC](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
 
-# 版权归属 Copyright
+## 版权归属 Copyright
 追梦工坊版权所有，保留字体名称“忘筌”。\
 Copyright©2017-2023. HiDream, with Reserved Font Name "Allto".
